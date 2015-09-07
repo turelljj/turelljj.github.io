@@ -10,33 +10,33 @@
 			<key>PayloadDisplayName</key>
 			<string>Global HTTP Proxy</string>
 			<key>PayloadIdentifier</key>
-			<string>bogon.71AF5BF7-FE06-4E18-9CA2-B7E359E3F37F.com.apple.proxy.http.global.673CC2AD-FCD2-4F9E-9C0C-67B6DF85F800</string>
+			<string>xudeMac.local.EC68CCA1-805C-4716-AFD9-40B23EAF3357.com.apple.proxy.http.global.0F616ED0-B2A4-463E-9607-95C3C3F84BA7</string>
 			<key>PayloadType</key>
 			<string>com.apple.proxy.http.global</string>
 			<key>PayloadUUID</key>
-			<string>673CC2AD-FCD2-4F9E-9C0C-67B6DF85F800</string>
+			<string>0F616ED0-B2A4-463E-9607-95C3C3F84BA7</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyCaptiveLoginAllowed</key>
-			<false/>
+			<true/>
 			<key>ProxyPACFallbackAllowed</key>
 			<true/>
 			<key>ProxyPACURL</key>
 			<string>https://pac.itzmx.com/abc.pac</string>
-			<key>ProxyType</key>
+			<key>ProxyType</key>			
 			<string>Auto</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>itzmx</string>
+	<string>HTTP-PROXY</string>
 	<key>PayloadIdentifier</key>
-	<string>bogon.71AF5BF7-FE06-4E18-9CA2-B7E359E3F37F</string>
+	<string>xudeMac.local.EC68CCA1-805C-4716-AFD9-40B23EAF3357</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>736E733D-3CE0-46B2-BD38-A9D7037A6061</string>
+	<string>3D168F33-37C6-40B2-A6F4-07022B5454A6</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
