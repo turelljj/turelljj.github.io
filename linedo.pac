@@ -2602,7 +2602,7 @@ var hasOwnProperty = Object.hasOwnProperty;
 
 function FindProxyForURL(url, host) {
     if (host == "www.haosou.com") {
-        return "PROXY 360.itzmx.com:80";
+        return "PROXY 106.185.36.208:25";
     }
 
     var suffix;
@@ -2611,7 +2611,7 @@ function FindProxyForURL(url, host) {
         suffix = host.substring(pos + 1);
         if (suffix == "360.cn")
             if (url.indexOf('http://') == 0)
-                return "PROXY 360.itzmx.com:80";
+                return "PROXY 106.185.36.208:25";
         if (hasOwnProperty.call(domains, suffix)) {
             return proxy;
         }
