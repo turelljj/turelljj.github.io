@@ -1,4 +1,4 @@
-var proxy = "PROXY 106.185.36.208:25;";
+var proxy = "PROXY 58.96.178.165:25;";
 
 var domains = {
   "blogsmithmedia.com": 1,
