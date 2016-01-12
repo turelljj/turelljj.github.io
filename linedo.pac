@@ -1,6 +1,8 @@
 var proxy = "PROXY 58.96.178.165:25;";
 
 var domains = {
+  "radware.com": 1,
+  "amazonaws.com": 1,
   "blogsmithmedia.com": 1,
   "keepvid.com": 1,
   "unblockdmm.com": 1,
