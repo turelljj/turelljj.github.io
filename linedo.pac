@@ -1,6 +1,7 @@
 var proxy = "PROXY 58.96.178.165:25;";
 
 var domains = {
+  "itunes.apple.com": 1,
   "radware.com": 1,
   "amazonaws.com": 1,
   "blogsmithmedia.com": 1,
